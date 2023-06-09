@@ -1,13 +1,13 @@
 #!/bin/bash
 <<<<<<< HEAD
-<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
-echo "ALX School"
+
 >>>>>>> My personal work
 =======
-echo "ALX School"
-=======
+
 echo "ALX School is so cool!"
 >>>>>>> Hot fix
->>>>>>> Hot fix
+
+=======
+> 18b653220be404ebb0e6a270708486fb5ea7a6ca
