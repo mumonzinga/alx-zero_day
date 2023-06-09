@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo "ALX School is so cool!"
@@ -11,3 +12,16 @@ echo "ALX School is so cool!"
 echo "ALX School"
 >>>>>>> 18b653220be404ebb0e6a270708486fb5ea7a6ca
 >>>>>>> How  to be up to date in git
+=======
+echo "ALX School is so cool!"
+=======
+
+>>>>>>> My personal work
+=======
+
+echo "ALX School is so cool!"
+>>>>>>> Hot fix
+
+=======
+> 18b653220be404ebb0e6a270708486fb5ea7a6ca
+>>>>>>> 9ccf97222a4cbea680d5a9464a9eb2aaf7b02592
